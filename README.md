@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @felipepouyssegur
 - 👀 I’m interested in React, JavaScript, HTML and CSS
+- 🔍 JR Front-end developer.
 - 🌱 I’m currently learning backend.
 - 📫 How to reach me: felipepouyssegur@hotmail.com 
 
